@@ -1,3 +1,5 @@
+{% include toc %}
+
 # Procesi i niti
 Nit je jedinica posla, dok je jedan proces skup jedne ili više niti koji dobijaju
 svoju grupu resursa **(def. by Krca!)**. Niti ne mogu da se nađu van procesa i više
