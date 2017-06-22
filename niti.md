@@ -1,5 +1,3 @@
-# Procesi i niti
-
 ## Sadržaj
 - [Stanja niti](#stanja-niti)
 - [Pravljenje niti](#pravljenje-niti)
@@ -14,6 +12,7 @@
 		- [Izuzeci](#izuzeci)
 - [Krajnji primer](#krajnji-primer)
 
+# Procesi i niti
 
 Nit je jedinica posla, dok je jedan proces skup jedne ili više niti koji dobijaju
 svoju grupu resursa **(def. by Krca!)**. Niti ne mogu da se nađu van procesa i više
